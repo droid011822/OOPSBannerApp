@@ -6,6 +6,8 @@
  * @author Abhijeet
  * @version 1.0
  */
+// UC1 implementation completed
+
 public class OOPSBannerApp {
 
     /**
