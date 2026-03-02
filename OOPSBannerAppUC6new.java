@@ -1,4 +1,4 @@
-public class OOPSBannerAppUC6 {
+public class OOPSBannerAppUC6new {
 
     // Method to generate pattern for letter 'O'
     public static String[] getOPattern() {
@@ -35,7 +35,7 @@ public class OOPSBannerAppUC6 {
 
     public static void main(String[] args) {
 
-        String[] oPattern = getOPattern();
+        String[] oPattern = getOPattern(); 
         String[] pPattern = getPPattern();
         String[] sPattern = getSPattern();
 
